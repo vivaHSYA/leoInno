@@ -120,7 +120,7 @@ const AboutSection = ({ loc }: { loc: string }) => {
           </div>
           <div className="part-info">
             <div className="part-info-img">
-              <img src="images/about/part-info.png" alt="part-info" />
+              <img src="images/about/fixed_0530.png" alt="part-info" />
             </div>
             <div className="desc">
               <h3>Research Experts_part information</h3>
