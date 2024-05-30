@@ -219,23 +219,23 @@ header.active .lang a:first-child::before {
   transition: transform 2000ms ease-in-out;
 }
 .slide-image-0 {
-  background-image:url(/images/main_01.png);
+  background-image:url(/images/service/main001.png);
   /* background-image: url(https://leoinnovision.s3.ap-northeast-2.amazonaws.com/hero-bg-0823-0.png); */
 }
 .slide-image-1 {
-  background-image:url(/images/main_02.png);
+  background-image:url(/images/service/main002.png);
   /* background-image: url(https://leoinnovision.s3.ap-northeast-2.amazonaws.com/hero-bg-0823-1.png); */
 }
 .slide-image-2 {
-  background-image:url(/images/main_03.png);
+  background-image:url(/images/service/main003.png);
   /* background-image: url(https://leoinnovision.s3.ap-northeast-2.amazonaws.com/hero-bg-0823-2.png); */
 }
 .slide-image-3 {
-  background-image:url(/images/main_04.png);
+  background-image:url(/images/service/main004.png);
   /* background-image: url(https://leoinnovision.s3.ap-northeast-2.amazonaws.com/hero-bg-0823-3.png); */
 }
 .slide-image-4 {
-  background-image:url(/images/main_05.png);
+  background-image:url(/images/service/main005.png);
   /* background-image: url(https://leoinnovision.s3.ap-northeast-2.amazonaws.com/hero-bg-0823-4.png); */
 }
 .hero-content {
