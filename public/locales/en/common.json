@@ -1,0 +1,82 @@
+{
+  "heroSection": [
+    "LEOinnovision, Ltd. Support precision analysis through AI diagnosis based on\nBig Data to maximize the life cycle of defenses weapon systems.\n\nTherefore, It is the best professional company that greatly contribute to cost\nreduction by supporting operation and maintenance cost reduction of effcient\nOperation rate.",
+    "ARE YOU READY MAKE AN IMPACT?\nIF So, the LEO is solution for you."
+  ],
+  "about-us": [
+    "LEOinnovision LTD grows together with our clients.",
+    "LEO actively reflects new features, contents and customer values to quickly reflect the solution to customer needs for SMART DMS / Smart PCN/PDN\n\nWe values the customers opinions and needs base for our solution development roadmap and strategy.  We continue to advance the state-of-art AI prediction technology through our design and development efforts.\n\nThe DMSMS research center conducts special survey analysis and solution provision methods, and even supports there preparation of parts discontinued management plans at the special request of customers.\n\nLEOinovision has the flexibility provide solutions in the most suitable way to users through collaboration with customers.What we pursue is to provide service that meet the our customers in a cost-effective and timely manner."
+  ],
+  "about-article": {
+    "company-experts": [
+      "LEOinnovision Ltd supports low-cost and timely procurement by applying an efficient management solution of AI prediction of parts discontinuance and Life Cycle information search covering all technologies including parts life information, Which is essential for weapon systems operation maintenance and research and development.\n\nSince LEO establishment, We continuously supported and obtained parts discontinuance information research, analysis reports and monitoring for Defense industries, Military research institutes, Militaries Logistic center, ADD, DTaQ, DAPA, to support SMART DMS solution. SMART DMS solution use AI prediction algorithm that combines Big Data.\n\nAI prediction to do risk analysis factors for all Militaries products. LEO also support DMSMS report to DTaQ. We provide total comprehensive management services."
+    ],
+    "research-experts": [
+      "DMSMS researchers support low-cost and timely procurement by applying an efficient management solution for AI prediction of parts life cycle management SMART DMS solution.  Since LEO founded our researchers have continuously supported and obtained parts life cycle and discontinue information.\n\nLEO DMSMS center specialize for BOM monitoring and obsolescence analysis report to Defense organizations such as National Defense Logistics Center(Army, Navy, Air Force), Defense Acquisition Program Administration, Defense Agency for Technology and Quality, Agency for defense Development, also Defense Industries. LEO DMSMS center uses AI life cycle prediction from parts level to BOX levels which is PIMS data base tools. PIMS opntain data base for Mfr SOP(start of production), EOS(end of service), EOP(end of production), LTD(last time delivery), and EOSR(end of service and repair) information.  LEO DMSMS researchers are investigate all parts life cycle information issues."
+    ],
+    "smart-dms": [
+      "SMART DMS research center was founded in 2005 to provide DMSMS, PCN, PDN information to Militaries and Defense industries for parts life cycle risk management. Therefor, the main tasks of our research and analysis are collects parts information with PDN and PCN. SMART DMS do your BOM monitoring for parts risks factors. SMARTS DMS notice your BOM for parts life risks information.",
+      "SMART DMS & PIMS = <small>secure+methodically+accepted+realizable+benefit for you</small>",
+      "One of our challenge is to help OEM and Militaries operation, MRO, parts repair problem by SMART DMS. Therefore, OEM and Militaries equipment(BOX, LRU, SRU, COTS, Parts) parts life data doc thru SMART DMS solution proactive prevent end users PDN, PCN issues.",
+      "Parts obsolescence(PCN,PDN) issues resolve efforts by users responsive. Any company that uses electronic, electrical and mechanical components and products faces problems with thousands of pieces of equipment(BOX, LRU, SRU, COTs, Parts) in a variety of formats. Therefore, SMARTS DMS will support you all.",
+      "Our researcher support all information thru all world.",
+      "SMART DMS benefit\nfor your ROI",
+      "PCN / PDN Alert",
+      "Life Cycle prediction",
+      "Monitoring",
+      "Research and Analysis\nfor your risks"
+    ],
+    "what-we-do": [
+      "1.Solution Supply",
+      "2.Production Parts\nDatabase",
+      "3.Monitoring,\nResearch and Analysis",
+      "4.in stocks service",
+      "Total Parts life Cycle Information",
+      "Part Status Investigation Analysis"
+    ],
+    "weekly-report": ["Date", "Part Number", "Product Name", "Producer Name"]
+  },
+  "service": {
+    "header": [
+      "The impact of parts obsolescence and PDN/PCN occurs on the total life cycle of you systems\nAs shown in the Life table below, there is a possibility of problems due to aging of parts.\nThe highest point equals the hour index between 60 to 99",
+      "Components Life Cycle start to SOP(start of production)\nProduct life cycle includes SOP(start of production), EOS(end of service),\nEOP(end of production), LTD(last time delivery), EOSR(end of service and repair)."
+    ],
+    "body": {
+      "solution": [
+        "Parts information and parts life cycle management",
+        "LEO support comprehensive parts management of weapon systems through parts information analysis, research, and DMS reporting.\n\nIf the manufacturers have already discontinued of parts without replacements when these are necessary to procure items for repair, the militaries are major challenges in maintaining and repair your weapon systems.\n\nIn order to solve and prevent these problems, LEO analyzes, researches, integrates reporting the best proactive for the clients systems. Clients can easy to make decision for their problems.",
+        "LEO Researchers make data for total systems include LRU, SRU, COTS, Parts analyzing data SMART DMS provide AI prediction thru PIMS converts all information(H/W, software, materials, technical information) composed of products, systems, or systems into data.",
+        "PIMS(parts information management systems) D/B",
+        "Appearance of a patent for a method for prediction parts discontinuance using parts and hybrid machine learning algorithms."
+      ],
+      "tracking": [
+        "Sustainable Supply Chain Management",
+        "It is difficult to find or obtain parts with old procurement data and incorrect information.\n\nLEOinnovision identify and continuously monitor parts with our international partners to provide the most Up to data information for our clients."
+      ],
+      "monitoring": [
+        "SMART DMS tracks, monitors, and assesses parts with potential risks in user’s system (BOM). If and when PCN/PND occurs, it will automatically trigger an alert to notify the user in advance."
+      ],
+      "ai": [
+        "LEOinnovision empowers users with the ability to monitor parts information in real-time using powerful and in-depth database system.",
+        "Parts Information Database",
+        "Worldwide Suppliers/Vendors",
+        "Manufacturer/Factory Information"
+      ],
+      "mang-report": [
+        "DMSMS researcher support your DTaQ DMSMS reports",
+        "LEO institute support convenient work based on the know-how acquired through for DTaQ parts discontinue plan reports.",
+        "Part Information and Part Discontinuation Moonstone Form (Example)"
+      ]
+    }
+  },
+  "client": ["Institution", "Corporation"],
+  "partners": {
+    "title-2": "F16: Equipment Technical Support Cooperation",
+    "uav": "an unmanned aerial vehicle"
+  },
+  "contact-us": "If you have any requests or inquiries, please contact us at support@dmsms.co.kr",
+  "contact-address": "1906 IT MIRAE TOWER 33, DIGITAL-RO 9 Gil,\nGEUMCHEON-GU, SEOUL, Korea 08511",
+  "description": "Hello this is about page",
+  "currentUrl": "current url",
+  "English": "English"
+}
