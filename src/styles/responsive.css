@@ -22,7 +22,7 @@
     padding-top: 70px;
     box-sizing: border-box;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.17);
-    background: url(/images/nav-bg-mo-0911.png) no-repeat center center;
+    background: url(/images/main_m006.png) no-repeat center center;
     background-size: cover;
     transition: 0.3s;
     justify-content: flex-start;
@@ -97,19 +97,24 @@
   }
   /* NEW HeroSection */
   .slide-image-0 {
-    background-image: url(https://leoinnovision.s3.ap-northeast-2.amazonaws.com/hero-bgM-0823-0.png);
+    background-image: url(/images/main_m001.png);
+    /* background-image: url(https://leoinnovision.s3.ap-northeast-2.amazonaws.com/hero-bgM-0823-0.png); */
   }
   .slide-image-1 {
-    background-image: url(https://leoinnovision.s3.ap-northeast-2.amazonaws.com/hero-bgM-0823-1.png);
+    background-image: url(/images/main_m002.png);
+    /* background-image: url(https://leoinnovision.s3.ap-northeast-2.amazonaws.com/hero-bgM-0823-1.png); */
   }
   .slide-image-2 {
-    background-image: url(https://leoinnovision.s3.ap-northeast-2.amazonaws.com/hero-bgM-0823-2.png);
+    background-image: url(/images/main_m003.png);
+    /* background-image: url(https://leoinnovision.s3.ap-northeast-2.amazonaws.com/hero-bgM-0823-2.png); */
   }
   .slide-image-3 {
-    background-image: url(https://leoinnovision.s3.ap-northeast-2.amazonaws.com/hero-bgM-0823-3.png);
+    background-image: url(/images/main_m004.png);
+    /* background-image: url(https://leoinnovision.s3.ap-northeast-2.amazonaws.com/hero-bgM-0823-3.png); */
   }
   .slide-image-4 {
-    background-image: url(https://leoinnovision.s3.ap-northeast-2.amazonaws.com/hero-bgM-0823-4.png);
+    background-image: url(/images/main_m005.png);
+    /* background-image: url(https://leoinnovision.s3.ap-northeast-2.amazonaws.com/hero-bgM-0823-4.png); */
   }
   .hero-move {
   }
