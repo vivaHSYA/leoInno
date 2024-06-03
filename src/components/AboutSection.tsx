@@ -262,7 +262,7 @@ const AboutSection = ({ loc }: { loc: string }) => {
           <div className="weekly-report" id="weekly-report">
             <h3>Weekly PCN/PDN Report</h3>
             <div style={{ display: "flex", justifyContent: "start", alignItems: "start" }}>
-              <img src="/images/about/weekly_ico.png" alt="weekly-left" style={{ maxWidth: "280px" }} />
+              <img src="/images/logo_fixed_3.png" alt="weekly-left" style={{ maxWidth: "280px" }} />
               {!loading && <RenderReports />}
             </div>
 
