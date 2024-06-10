@@ -59,9 +59,10 @@ const ServiceSection = ({
           </h3>
           <span>{t("service.body.solution.2")}</span>
           <div className="pims-imgs">
-            <img src="/images/service/plms-0.png" alt="plms-0" />
+            <img src="/images/plms_0610.png" alt="plms-total" style={{ width: "100%", maxWidth: "100%" }} />
+            {/* <img src="/images/service/plms-0.png" alt="plms-0" />
             <img src="/images/service/logo_fixed2_1.png" alt="plms-1" />
-            <img src="/images/service/logo_fixed2_2.png" alt="plms-2" />
+            <img src="/images/service/logo_fixed2_2.png" alt="plms-2" /> */}
           </div>
         </div>
       </article>
@@ -407,7 +408,7 @@ const ServiceSection = ({
           <div className="service-img">
             <div className="left">
               <div className="imgs">
-                <img src="/images/about/weekly_ico.png" alt="plms" style={{ maxWidth: "201px" }} />
+                <img src="/images/weekly_ico_v2.png" alt="plms" style={{ maxWidth: "201px" }} />
                 <img src="/images/service/box-right.png" alt="actions" />
               </div>
               <img

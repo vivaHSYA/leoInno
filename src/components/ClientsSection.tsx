@@ -44,6 +44,9 @@ const ClientsSection = () => {
                             <a target="_blank">
                                 <img src="/images/client/logo-9.png" alt="logo-9" />
                             </a>
+                            <a target="_blank">
+                                <img src="/images/client/logo-10.png" alt="logo-9" style={{ maxWidth: "222px" }} />
+                            </a>
                         </div>
                     </div>
                 </div>

@@ -120,7 +120,7 @@ const AboutSection = ({ loc }: { loc: string }) => {
           </div>
           <div className="part-info">
             <div className="part-info-img">
-              <img src="images/about/fixed_0530.png" alt="part-info" />
+              <img src="images/about/fixed_0610.png" alt="part-info" />
             </div>
             <div className="desc">
               <h3>Research Experts_part information</h3>
@@ -262,7 +262,7 @@ const AboutSection = ({ loc }: { loc: string }) => {
           <div className="weekly-report" id="weekly-report">
             <h3>Weekly PCN/PDN Report</h3>
             <div style={{ display: "flex", justifyContent: "start", alignItems: "start" }}>
-              <img src="/images/logo_fixed_3.png" alt="weekly-left" style={{ maxWidth: "280px" }} />
+              <img src="/images/logo_fixed_3_1.png" alt="weekly-left" style={{ maxWidth: "280px" }} />
               {!loading && <RenderReports />}
             </div>
 
