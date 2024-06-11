@@ -41,10 +41,10 @@ const ClientsSection = () => {
                             <a href="https://www.hanwhasystems.com/kr/index.do" target="_blank">
                                 <img src="/images/client/logo-8.png" alt="logo-8" />
                             </a>
-                            <a target="_blank">
+                            <a href="http://www.koreadefenseindustry.com" target="_blank">
                                 <img src="/images/client/logo-9.png" alt="logo-9" />
                             </a>
-                            <a href="www.lignex1.com" target="_blank">
+                            <a href="http://www.lignex1.com" target="_blank">
                                 <img src="/images/client/logo-10.png" alt="logo-9" style={{ maxWidth: "222px" }} />
                             </a>
                         </div>

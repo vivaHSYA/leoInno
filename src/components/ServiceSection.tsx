@@ -59,7 +59,7 @@ const ServiceSection = ({
           </h3>
           <span>{t("service.body.solution.2")}</span>
           <div className="pims-imgs">
-            <img src="/images/plms_0610.png" alt="plms-total" style={{ width: "100%", maxWidth: "100%" }} />
+            <img src="/images/pms_0611.png" alt="plms-total" style={{ width: "100%", maxWidth: "100%" }} />
             {/* <img src="/images/service/plms-0.png" alt="plms-0" />
             <img src="/images/service/logo_fixed2_1.png" alt="plms-1" />
             <img src="/images/service/logo_fixed2_2.png" alt="plms-2" /> */}

@@ -711,7 +711,7 @@ header.active .lang a:first-child::before {
   display: none;
 }
 .service-body {
-  background-color: #f6f6f6;
+  /* background-color: #f6f6f6; */
   padding: 10rem 0;
 }
 .service-category {
@@ -988,7 +988,7 @@ header.active .lang a:first-child::before {
 }
 .clients-body {
   padding: 7.8rem 0;
-  background-color: #f8f8f8;
+  /* background-color: #f8f8f8; */
 }
 .clients-body .agency,
 .clients-body .enterprise {

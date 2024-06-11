@@ -21,7 +21,7 @@ const ContactUSSection = () => {
         </div>
         <div className="info">
           <h3>Contact Info</h3>
-          <span>LEOInnovision. Ltd</span>
+          <span>{t("contact-name")}</span>
           <p>{t("contact-address")}</p>
           <div className="numbers">
             <div className="tel">

@@ -34,7 +34,12 @@
       "Total Parts life Cycle Information",
       "Part Status Investigation Analysis"
     ],
-    "weekly-report": ["Date", "Part Number", "Product Name", "Producer Name"]
+    "weekly-report": [
+      "Date",
+      "Part Number",
+      "Product Name",
+      "Producer Name"
+    ]
   },
   "service": {
     "header": [
@@ -69,12 +74,16 @@
       ]
     }
   },
-  "client": ["Institution", "Corporation"],
+  "client": [
+    "Institution",
+    "Corporation"
+  ],
   "partners": {
     "title-2": "F16: Equipment Technical Support Cooperation",
     "uav": "an unmanned aerial vehicle"
   },
   "contact-us": "If you have any requests or inquiries, please contact us at support@dmsms.co.kr",
+  "contact-name": "LEOInnovision. Ltd",
   "contact-address": "1906 IT MIRAE TOWER 33, DIGITAL-RO 9 Gil,\nGEUMCHEON-GU, SEOUL, Korea 08511",
   "description": "Hello this is about page",
   "currentUrl": "current url",

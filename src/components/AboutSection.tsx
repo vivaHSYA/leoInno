@@ -215,9 +215,9 @@ const AboutSection = ({ loc }: { loc: string }) => {
             <h3>What we do</h3>
             <div className="content">
               <img
-                src="/images/about/what_we_do.png"
+                src="/images/about/monitor_left.png"
                 alt="wedo-left"
-                style={{ width: "100%", maxWidth: "58rem" }}
+                style={{ width: "100%", maxWidth: "48rem" }}
               />
               <div className="desc">
                 <div className="icon-imgs">
